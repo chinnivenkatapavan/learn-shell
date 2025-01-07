@@ -42,4 +42,3 @@ echo $list_of_files
 # Syntax: var=$((expression))
 add=$((2+3))
 
-echo $add
