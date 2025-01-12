@@ -16,7 +16,7 @@
 #   commands
 # fi
 
-# 2. Else If
+# 3. Else If
 # if [ expression1 ] ; then
 #   commands1
 # elif [ expression2 ] ;then
